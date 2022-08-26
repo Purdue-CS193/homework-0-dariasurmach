@@ -1,4 +1,14 @@
-##  Daria's First CS193 Homework
+#  Daria's First CS193 Homework
+
+### These are some of my favorite things about CS 193:
+- PSOs available if I need help
+- No exams
+- No textbook
+- Once a week
+- Nice TAs and Course Leads
+
+
+### This is the rest of the program that I'm not sure if I'm supposed to delete or not:
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -13,13 +23,10 @@ Syntax highlighted code block
 
 # Header 1
 ## Header 2
-### These are some of my favorite things about CS 193
+### Header 3
 
-- PSOs available if I need help
-- No exams
-- No textbook
-- Once a week
-- Nice TAs and Course Leads
+- Bulleted 
+- List
 
 1. Numbered
 2. List
