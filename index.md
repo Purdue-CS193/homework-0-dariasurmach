@@ -1,4 +1,4 @@
-## Welcome to a cool website!
+##  Daria's First CS193 Homework
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -13,10 +13,13 @@ Syntax highlighted code block
 
 # Header 1
 ## Header 2
-### Header 3
+### These are some of my favorite things about CS 193
 
-- Bulleted
-- List
+- PSOs available if I need help
+- No exams
+- No textbook
+- Once a week
+- Nice TAs and Course Leads
 
 1. Numbered
 2. List
